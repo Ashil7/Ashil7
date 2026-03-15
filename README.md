@@ -1,5 +1,38 @@
+# Ashil Benny — Backend Engineer
 
-<p align='center'>
-  <image src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlkZmtxMDZxNWltYXY0aHIxODJkZzhqeXY1cjdndTdyYzduZnI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif">
-  </image>
-</p>
+Python · Django · Django REST Framework · AWS · ELK Stack
+
+Backend engineer with 1+ year of production experience building 
+transaction monitoring pipelines and REST APIs at Federal Bank's 
+fintech arm (FedServ). I work across the full deployment cycle — 
+writing the code, containerizing it, shipping to AWS, and owning 
+it in production.
+
+---
+
+## What I Build
+
+- REST APIs with JWT auth and role-based access control
+- Elasticsearch-based anomaly detection and log pipelines
+- Async task systems with Celery and Redis
+- Cloud deployments on AWS EC2 with Docker
+
+---
+
+## Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| Task Management SaaS API | Django, DRF, PostgreSQL, Docker, AWS | Multi-tenant API with RBAC and CI/CD |
+| MoodSync | Django, VADER, SQLite | AI diary with sentiment analysis |
+| Find My Tutor | Django, React, MySQL, Razorpay | Tutoring marketplace with payments |
+| Stress Detection | Django, OpenCV, CNN | Real-time facial stress classifier |
+
+---
+
+## Connect
+
+- Email: ashilbenny555@gmail.com
+- LinkedIn: linkedin.com/in/ashil-benny
+- Location: Ernakulam, Kerala, India
+```
