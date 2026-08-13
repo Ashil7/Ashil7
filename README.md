@@ -2,20 +2,12 @@
 
 Python · Django · Django REST Framework · AWS · ELK Stack
 
-Backend engineer with 1+ year of production experience building 
-transaction monitoring pipelines and REST APIs at Federal Bank's 
-fintech arm (FedServ). I work across the full deployment cycle — 
-writing the code, containerizing it, shipping to AWS, and owning 
-it in production.
-
----
-
-## What I Build
-
-- REST APIs with JWT auth and role-based access control
-- Elasticsearch-based anomaly detection and log pipelines
-- Async task systems with Celery and Redis
-- Cloud deployments on AWS EC2 with Docker
+Junior Software Engineer with hands-on Python, Django, and SQL,
+combined with 1.5 years of production-system experience troubleshooting live, business-critical banking applications.
+Comfortable with Object-Oriented Programming principles and the full Software Development Lifecycle (SDLC), having
+shipped REST APIs, integrated databases, and worked across frontend (React) and backend layers. Strong analytical and
+problem-solving skills built from real production debugging, with a genuine passion for learning new technologies and
+building quality software.
 
 ---
 
